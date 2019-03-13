@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StarTrekApplication",
+      "request": "launch",
+      "mainClass": "com.okta.developer.demo.startrek.StarTrekApplication",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DemoApplication",
+      "request": "launch",
+      "mainClass": "com.example.demo.DemoApplication",
+      "projectName": "demo"
+    }
+  ]
+}

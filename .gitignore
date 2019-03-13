@@ -47,4 +47,4 @@
 /server/nbdist/
 /server/.nb-gradle/
 /server/build/
-/server/src/resources/*.properties
+/server/src/main/resources/application.properties

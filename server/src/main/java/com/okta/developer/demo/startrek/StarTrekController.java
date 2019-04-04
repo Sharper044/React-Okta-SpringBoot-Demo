@@ -3,10 +3,7 @@ package com.okta.developer.demo.startrek;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.Collection;
-// import java.util.HashMap;
-// import java.util.Map;
 import java.util.stream.Collectors;
-// import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
 
